@@ -1,5 +1,6 @@
 # Project-Recipe-App-React-State-Management
 Project Recipe App for thinkful assessment
+
 This project has starter code you can use for the application. You will need to add handlers and other logic to make this code work.
 
 Requirements
